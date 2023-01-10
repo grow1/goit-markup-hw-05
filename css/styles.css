@@ -566,7 +566,7 @@ modal-close-btn {
   display: flex;
 }
 
-.footer-socials li {
+.footer-socials a {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -584,8 +584,8 @@ modal-close-btn {
   justify-content: center;
 }
 
-.footer-socials li:hover,
-.footer-socials li:focus {
+.footer-socials a:hover,
+.footer-socials a:focus {
   background-color: var(--success-color);
 }
 
